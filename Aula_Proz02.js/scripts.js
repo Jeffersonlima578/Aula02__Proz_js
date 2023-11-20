@@ -1,6 +1,6 @@
 
 
-window.addEventListener('load', function() {
+        addEventListener('load', function() {
 
         var titulo = document.getElementById('titulo');
 
